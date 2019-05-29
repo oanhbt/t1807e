@@ -1,0 +1,11 @@
+/home/cmq/C#/myApp/bin/Debug/netcoreapp2.2/myApp.deps.json
+/home/cmq/C#/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.json
+/home/cmq/C#/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.dev.json
+/home/cmq/C#/myApp/bin/Debug/netcoreapp2.2/myApp.dll
+/home/cmq/C#/myApp/bin/Debug/netcoreapp2.2/myApp.pdb
+/home/cmq/C#/myApp/obj/Debug/netcoreapp2.2/myApp.csprojAssemblyReference.cache
+/home/cmq/C#/myApp/obj/Debug/netcoreapp2.2/myApp.csproj.CoreCompileInputs.cache
+/home/cmq/C#/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfoInputs.cache
+/home/cmq/C#/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfo.cs
+/home/cmq/C#/myApp/obj/Debug/netcoreapp2.2/myApp.dll
+/home/cmq/C#/myApp/obj/Debug/netcoreapp2.2/myApp.pdb
