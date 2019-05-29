@@ -1,0 +1,7 @@
+D:\C#\d27m5\d27m5\bin\Debug\d27m5.exe.config
+D:\C#\d27m5\d27m5\bin\Debug\d27m5.exe
+D:\C#\d27m5\d27m5\bin\Debug\d27m5.pdb
+D:\C#\d27m5\d27m5\obj\Debug\d27m5.csprojAssemblyReference.cache
+D:\C#\d27m5\d27m5\obj\Debug\d27m5.csproj.CoreCompileInputs.cache
+D:\C#\d27m5\d27m5\obj\Debug\d27m5.exe
+D:\C#\d27m5\d27m5\obj\Debug\d27m5.pdb
