@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ConsoleApplication1\TestProperty\bin\Debug\TestProperty.exe.config
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ConsoleApplication1\TestProperty\obj\Debug\TestProperty.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ConsoleApplication1\TestProperty\bin\Debug\TestProperty.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ConsoleApplication1\TestProperty\bin\Debug\TestProperty.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ConsoleApplication1\TestProperty\obj\Debug\TestProperty.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ConsoleApplication1\TestProperty\obj\Debug\TestProperty.pdb

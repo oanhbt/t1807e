@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ConsoleApplication1\StudentProject\bin\Debug\StudentProject.exe.config
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ConsoleApplication1\StudentProject\bin\Debug\StudentProject.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ConsoleApplication1\StudentProject\bin\Debug\StudentProject.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ConsoleApplication1\StudentProject\obj\Debug\StudentProject.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ConsoleApplication1\StudentProject\obj\Debug\StudentProject.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ConsoleApplication1\StudentProject\obj\Debug\StudentProject.pdb
