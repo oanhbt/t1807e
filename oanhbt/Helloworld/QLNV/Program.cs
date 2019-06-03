@@ -30,6 +30,14 @@ namespace QLNV
             }
         }
 
+        void themLuong(string maNV)
+        {
+        }
+
+        void themNguoiThan(string maNV)
+        {
+        }
+
         void hienthiNhanVien()
         {
             Console.WriteLine("************ DS *****************");
