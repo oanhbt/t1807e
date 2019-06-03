@@ -1,0 +1,6 @@
+E:\aptect\sem2\t1807e\nguyen vu duong\Exception\Exception\bin\Debug\Exception.exe.config
+E:\aptect\sem2\t1807e\nguyen vu duong\Exception\Exception\bin\Debug\Exception.exe
+E:\aptect\sem2\t1807e\nguyen vu duong\Exception\Exception\bin\Debug\Exception.pdb
+E:\aptect\sem2\t1807e\nguyen vu duong\Exception\Exception\obj\Debug\Exception.csprojResolveAssemblyReference.cache
+E:\aptect\sem2\t1807e\nguyen vu duong\Exception\Exception\obj\Debug\Exception.exe
+E:\aptect\sem2\t1807e\nguyen vu duong\Exception\Exception\obj\Debug\Exception.pdb

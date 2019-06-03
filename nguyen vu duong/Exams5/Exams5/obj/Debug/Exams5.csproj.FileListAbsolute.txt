@@ -1,0 +1,6 @@
+E:\aptect\sem2\t1807e\nguyen vu duong\Exams5\Exams5\bin\Debug\Exams5.exe.config
+E:\aptect\sem2\t1807e\nguyen vu duong\Exams5\Exams5\bin\Debug\Exams5.exe
+E:\aptect\sem2\t1807e\nguyen vu duong\Exams5\Exams5\bin\Debug\Exams5.pdb
+E:\aptect\sem2\t1807e\nguyen vu duong\Exams5\Exams5\obj\Debug\Exams5.csprojResolveAssemblyReference.cache
+E:\aptect\sem2\t1807e\nguyen vu duong\Exams5\Exams5\obj\Debug\Exams5.exe
+E:\aptect\sem2\t1807e\nguyen vu duong\Exams5\Exams5\obj\Debug\Exams5.pdb
