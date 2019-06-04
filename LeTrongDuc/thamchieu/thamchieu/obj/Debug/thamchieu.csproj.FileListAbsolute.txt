@@ -1,0 +1,6 @@
+E:\SEM2\LeTrongDuc\t1807e\LeTrongDuc\thamchieu\thamchieu\bin\Debug\thamchieu.exe.config
+E:\SEM2\LeTrongDuc\t1807e\LeTrongDuc\thamchieu\thamchieu\obj\Debug\thamchieu.csprojResolveAssemblyReference.cache
+E:\SEM2\LeTrongDuc\t1807e\LeTrongDuc\thamchieu\thamchieu\bin\Debug\thamchieu.exe
+E:\SEM2\LeTrongDuc\t1807e\LeTrongDuc\thamchieu\thamchieu\bin\Debug\thamchieu.pdb
+E:\SEM2\LeTrongDuc\t1807e\LeTrongDuc\thamchieu\thamchieu\obj\Debug\thamchieu.exe
+E:\SEM2\LeTrongDuc\t1807e\LeTrongDuc\thamchieu\thamchieu\obj\Debug\thamchieu.pdb
