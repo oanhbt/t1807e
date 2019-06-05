@@ -1,0 +1,6 @@
+E:\SEM2\LeTrongDuc\t1807e\LeTrongDuc\QLSV\QLSV\bin\Debug\QLSV.exe.config
+E:\SEM2\LeTrongDuc\t1807e\LeTrongDuc\QLSV\QLSV\obj\Debug\QLSV.csprojResolveAssemblyReference.cache
+E:\SEM2\LeTrongDuc\t1807e\LeTrongDuc\QLSV\QLSV\bin\Debug\QLSV.exe
+E:\SEM2\LeTrongDuc\t1807e\LeTrongDuc\QLSV\QLSV\bin\Debug\QLSV.pdb
+E:\SEM2\LeTrongDuc\t1807e\LeTrongDuc\QLSV\QLSV\obj\Debug\QLSV.exe
+E:\SEM2\LeTrongDuc\t1807e\LeTrongDuc\QLSV\QLSV\obj\Debug\QLSV.pdb
