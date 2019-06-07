@@ -1,5 +1,0 @@
-E:\SEM2\LeTrongDuc\t1807e\LeTrongDuc\ConsoleApplication1\setget\bin\Debug\setget.exe.config
-E:\SEM2\LeTrongDuc\t1807e\LeTrongDuc\ConsoleApplication1\setget\bin\Debug\setget.exe
-E:\SEM2\LeTrongDuc\t1807e\LeTrongDuc\ConsoleApplication1\setget\bin\Debug\setget.pdb
-E:\SEM2\LeTrongDuc\t1807e\LeTrongDuc\ConsoleApplication1\setget\obj\Debug\setget.exe
-E:\SEM2\LeTrongDuc\t1807e\LeTrongDuc\ConsoleApplication1\setget\obj\Debug\setget.pdb

@@ -1,0 +1,12 @@
+C:\Users\Duc\Desktop\VisualStudio\bt1\bt1\bin\Debug\bt1.exe.config
+C:\Users\Duc\Desktop\VisualStudio\bt1\bt1\bin\Debug\bt1.exe
+C:\Users\Duc\Desktop\VisualStudio\bt1\bt1\bin\Debug\bt1.pdb
+C:\Users\Duc\Desktop\VisualStudio\bt1\bt1\obj\Debug\bt1.exe
+C:\Users\Duc\Desktop\VisualStudio\bt1\bt1\obj\Debug\bt1.pdb
+C:\Users\Duc\Desktop\VisualStudio\bt1\bt1\obj\Debug\bt1.csprojResolveAssemblyReference.cache
+C:\Users\Duc\Documents\VisualStudio\bt1\bt1\bin\Debug\bt1.exe.config
+C:\Users\Duc\Documents\VisualStudio\bt1\bt1\obj\Debug\bt1.exe
+C:\Users\Duc\Documents\VisualStudio\bt1\bt1\obj\Debug\bt1.pdb
+C:\Users\Duc\Documents\VisualStudio\bt1\bt1\bin\Debug\bt1.exe
+C:\Users\Duc\Documents\VisualStudio\bt1\bt1\bin\Debug\bt1.pdb
+C:\Users\Duc\Documents\VisualStudio\bt1\bt1\obj\Debug\bt1.csprojResolveAssemblyReference.cache

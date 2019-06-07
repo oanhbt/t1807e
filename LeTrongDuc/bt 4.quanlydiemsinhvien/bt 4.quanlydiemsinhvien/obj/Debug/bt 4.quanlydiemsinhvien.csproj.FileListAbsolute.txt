@@ -1,0 +1,6 @@
+E:\SEM2\LeTrongDuc\t1807e\LeTrongDuc\bt 4.quanlydiemsinhvien\bt 4.quanlydiemsinhvien\bin\Debug\bt 4.quanlydiemsinhvien.exe.config
+E:\SEM2\LeTrongDuc\t1807e\LeTrongDuc\bt 4.quanlydiemsinhvien\bt 4.quanlydiemsinhvien\obj\Debug\bt 4.quanlydiemsinhvien.csprojResolveAssemblyReference.cache
+E:\SEM2\LeTrongDuc\t1807e\LeTrongDuc\bt 4.quanlydiemsinhvien\bt 4.quanlydiemsinhvien\bin\Debug\bt 4.quanlydiemsinhvien.exe
+E:\SEM2\LeTrongDuc\t1807e\LeTrongDuc\bt 4.quanlydiemsinhvien\bt 4.quanlydiemsinhvien\bin\Debug\bt 4.quanlydiemsinhvien.pdb
+E:\SEM2\LeTrongDuc\t1807e\LeTrongDuc\bt 4.quanlydiemsinhvien\bt 4.quanlydiemsinhvien\obj\Debug\bt 4.quanlydiemsinhvien.exe
+E:\SEM2\LeTrongDuc\t1807e\LeTrongDuc\bt 4.quanlydiemsinhvien\bt 4.quanlydiemsinhvien\obj\Debug\bt 4.quanlydiemsinhvien.pdb
