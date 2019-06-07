@@ -43,8 +43,9 @@ namespace QuanLyNhanVien
                 Console.WriteLine("3.Them moi thong tin gia dinh nhan vien");
                 Console.WriteLine("4. Hien thi thong tin Nhan Vien");
                 Console.WriteLine("5. Thoat");
-                Console.WriteLine("-------***------");
+                Console.Write("Moi nhap lua chon : ");
                 choice = Convert.ToInt16(Console.ReadLine());
+                Console.WriteLine("-------***------");
                 switch(choice)
                 {
                     case 1:
@@ -55,7 +56,7 @@ namespace QuanLyNhanVien
                         pro.Show();
                         break;
                     case 3:
-                        
+                        pro.ThemTTGiaDinh();
                         break;
                     case 4:
                         pro.Show();
@@ -71,8 +72,9 @@ namespace QuanLyNhanVien
 
         public void ThemNV()
         {
-            Console.WriteLine("Nhap so Nhan vien :");
+            Console.Write("Nhap so Nhan vien can them : ");
             short SoNv = Convert.ToInt16(Console.ReadLine());
+            Console.WriteLine("----------------");
             for (int i = 0; i < SoNv; i++)
             {
                 Console.WriteLine("Nhap ID NhanVien :");
@@ -81,11 +83,11 @@ namespace QuanLyNhanVien
                 string TenNV = Convert.ToString(Console.ReadLine());
                 NhanVien Nvien = new NhanVien(MaNV, TenNV);
                 MangNV.Add(Nvien);
-
+                Console.WriteLine("----------------");
                 for (int j = 0; j < 12; j++)
                 {
                     int Thang = j + 1;
-                    double luong = (double)(j+1)*11;
+                    double luong = (double)(i+j+1)*11;
                     LuongNV Luongnvien = new LuongNV(MaNV, Thang, luong);
                     MangLuongNV.Add(Luongnvien);
                 }
@@ -95,9 +97,7 @@ namespace QuanLyNhanVien
 
         public void SuaLuongNV()
         {
-            if (MangLuongNV != null)
-            {
-                Console.WriteLine("Nhap Ma so nhan vien");
+                Console.WriteLine("Nhap Ma so nhan vien ");
                 short IdNv = Convert.ToInt16(Console.ReadLine());
                 
                 Console.WriteLine("Nhap thang muon sua");
@@ -109,14 +109,34 @@ namespace QuanLyNhanVien
                     if (IdNv == MangLuongNV[i].MaNV && thang == MangLuongNV[i].Thang)
                     {
                         Console.WriteLine("Nhap luong moi");
+                        Console.WriteLine("{0}");
+                        //MangLuongNV[i].GetType().GetProperty("LuongNhVien").SetValue( MangLuongNV[i], Convert.ToInt16(Console.ReadLine()));
                         MangLuongNV[i].LuongNhVien = Convert.ToInt16(Console.ReadLine());
-                    }
-                }
-            }
-            else
+                        break;
+                    } 
+                } 
+        }
+
+        public void ThemTTGiaDinh()
+        {
+            Console.Write("Nhap so nhan vien : ");
+            short SoNv = Convert.ToInt16(Console.ReadLine());
+            Console.WriteLine("----------------");
+            for (int i = 0; i < SoNv; i++)
             {
-                Console.WriteLine("None nhan vien");
+                Console.WriteLine("Nhap ID NhanVien :");
+                short MaNV = Convert.ToInt16(Console.ReadLine());
+                Console.WriteLine("Nhap Ten Nguoi than :");
+                string TenNgThan = Convert.ToString(Console.ReadLine());
+                Console.WriteLine("Nhap quan he :");
+                string QuHe = Convert.ToString(Console.ReadLine());
+                Console.WriteLine("Nhap nam sinh :");
+                short NamSinh = Convert.ToInt16(Console.ReadLine());
+                GiaDinhNV FamilyStaff = new GiaDinhNV(MaNV, TenNgThan, QuHe, NamSinh);
+                MangGiaDinhNV.Add(FamilyStaff);
+                Console.WriteLine("----------------");
             }
+            Console.WriteLine("So element {0}", MangGiaDinhNV.Count);
         }
 
         public void Show()
@@ -126,13 +146,21 @@ namespace QuanLyNhanVien
             {
                 NhanVien nv = MangNV[i];
                 Console.Write("{0}\t\t", nv.TenNV);
-                for (int j = 0; j < 12; j++)
+                for (int j = i*12; j < (i + 1) * 12; j++)
                 {
                     LuongNV lgNv = MangLuongNV[j];
                     
                     Console.Write(String.Format("{0:#.##} ", lgNv.LuongNhVien));
                 }
                 Console.WriteLine();
+            }
+            Console.WriteLine("------------");
+            for (int m = 0; m < MangGiaDinhNV.Count; m++)
+            {
+                Console.WriteLine("Thong tin nguoi than : ");
+                Console.WriteLine("MaNV\tTen\tQuanHe\tNamSinh");
+                GiaDinhNV NgThanNv = MangGiaDinhNV[m];
+                Console.WriteLine("{0}\t{1}\t{2}\t{3}",NgThanNv.MaNV, NgThanNv.TenNgThan, NgThanNv.QuHe, NgThanNv.NamSinh);
             }
             //foreach (LuongNV lg in MangLuongNV)
             //{

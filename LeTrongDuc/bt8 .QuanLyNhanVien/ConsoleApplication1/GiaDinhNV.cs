@@ -13,15 +13,15 @@ namespace ThongTinGiaDinh
 
         public short MaNV
         {
-            get { return MaNV; }
-            set { MaNV = value; }
+            get { return _MaNV; }
+            set { _MaNV = value; }
         }
         string _TenNgThan;
 
         public string TenNgThan
         {
-            get { return TenNgThan; }
-            set { TenNgThan = value; }
+            get { return _TenNgThan; }
+            set { _TenNgThan = value; }
         }
         string _QuHe;
 
@@ -36,6 +36,20 @@ namespace ThongTinGiaDinh
         {
             get { return _NamSinh; }
             set { _NamSinh = value; }
+        }
+
+        public GiaDinhNV()
+        {
+
+        }
+
+        public GiaDinhNV(short MaNV, string TenNgThan, string QuHe, short NamSinh)
+        {
+            // TODO: Complete member initialization
+            this._MaNV = MaNV;
+            this._TenNgThan = TenNgThan;
+            this._QuHe = QuHe;
+            this._NamSinh = NamSinh;
         }
     }
 }
