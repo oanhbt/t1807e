@@ -1,0 +1,7 @@
+<?php
+	$a = array(
+		"java" => "Spring",
+		"php" => "Wordpress",
+		"net" => "dotnet"
+	);
+	var_dump($a);
