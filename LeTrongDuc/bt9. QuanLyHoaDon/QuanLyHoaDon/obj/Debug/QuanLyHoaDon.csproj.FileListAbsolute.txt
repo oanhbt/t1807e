@@ -1,0 +1,6 @@
+E:\SEM2\LeTrongDuc\t1807e\LeTrongDuc\QuanLyHoaDon\QuanLyHoaDon\bin\Debug\QuanLyHoaDon.exe.config
+E:\SEM2\LeTrongDuc\t1807e\LeTrongDuc\QuanLyHoaDon\QuanLyHoaDon\obj\Debug\QuanLyHoaDon.csprojResolveAssemblyReference.cache
+E:\SEM2\LeTrongDuc\t1807e\LeTrongDuc\QuanLyHoaDon\QuanLyHoaDon\bin\Debug\QuanLyHoaDon.exe
+E:\SEM2\LeTrongDuc\t1807e\LeTrongDuc\QuanLyHoaDon\QuanLyHoaDon\bin\Debug\QuanLyHoaDon.pdb
+E:\SEM2\LeTrongDuc\t1807e\LeTrongDuc\QuanLyHoaDon\QuanLyHoaDon\obj\Debug\QuanLyHoaDon.exe
+E:\SEM2\LeTrongDuc\t1807e\LeTrongDuc\QuanLyHoaDon\QuanLyHoaDon\obj\Debug\QuanLyHoaDon.pdb

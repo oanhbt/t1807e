@@ -1,0 +1,5 @@
+E:\SEM2\LeTrongDuc\t1807e\LeTrongDuc\bt5.doituong\bt5.doituong\bin\Debug\bt5.doituong.exe.config
+E:\SEM2\LeTrongDuc\t1807e\LeTrongDuc\bt5.doituong\bt5.doituong\bin\Debug\bt5.doituong.exe
+E:\SEM2\LeTrongDuc\t1807e\LeTrongDuc\bt5.doituong\bt5.doituong\bin\Debug\bt5.doituong.pdb
+E:\SEM2\LeTrongDuc\t1807e\LeTrongDuc\bt5.doituong\bt5.doituong\obj\Debug\bt5.doituong.exe
+E:\SEM2\LeTrongDuc\t1807e\LeTrongDuc\bt5.doituong\bt5.doituong\obj\Debug\bt5.doituong.pdb
