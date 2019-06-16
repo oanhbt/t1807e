@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentProject", "StudentPr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProperty", "TestProperty\TestProperty.csproj", "{A5A0AB3B-E73E-4E47-9154-2AAF3EEFF93D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLHDDien", "QLHDDien\QLHDDien.csproj", "{8EEB69B8-C07B-4467-8631-5DEE19DD25E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,10 @@ Global
 		{A5A0AB3B-E73E-4E47-9154-2AAF3EEFF93D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5A0AB3B-E73E-4E47-9154-2AAF3EEFF93D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5A0AB3B-E73E-4E47-9154-2AAF3EEFF93D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EEB69B8-C07B-4467-8631-5DEE19DD25E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EEB69B8-C07B-4467-8631-5DEE19DD25E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EEB69B8-C07B-4467-8631-5DEE19DD25E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EEB69B8-C07B-4467-8631-5DEE19DD25E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
