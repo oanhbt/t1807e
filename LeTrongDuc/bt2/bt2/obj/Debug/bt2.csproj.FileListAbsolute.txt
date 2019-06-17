@@ -1,0 +1,6 @@
+E:\SEM2\LeTrongDuc\t1807e\LeTrongDuc\bt2\bt2\bin\Debug\bt2.exe.config
+E:\SEM2\LeTrongDuc\t1807e\LeTrongDuc\bt2\bt2\bin\Debug\bt2.exe
+E:\SEM2\LeTrongDuc\t1807e\LeTrongDuc\bt2\bt2\bin\Debug\bt2.pdb
+E:\SEM2\LeTrongDuc\t1807e\LeTrongDuc\bt2\bt2\obj\Debug\bt2.csprojResolveAssemblyReference.cache
+E:\SEM2\LeTrongDuc\t1807e\LeTrongDuc\bt2\bt2\obj\Debug\bt2.exe
+E:\SEM2\LeTrongDuc\t1807e\LeTrongDuc\bt2\bt2\obj\Debug\bt2.pdb

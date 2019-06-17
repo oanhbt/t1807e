@@ -1,0 +1,12 @@
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ConsoleApplication1\QLNV\bin\Debug\QLNV.exe.config
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ConsoleApplication1\QLNV\bin\Debug\QLNV.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ConsoleApplication1\QLNV\bin\Debug\QLNV.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ConsoleApplication1\QLNV\obj\Debug\QLNV.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ConsoleApplication1\QLNV\obj\Debug\QLNV.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\ConsoleApplication1\QLNV\obj\Debug\QLNV.pdb
+D:\Aptech\class\t1807e\oanhbt\Helloworld\QLNV\bin\Debug\QLNV.exe.config
+D:\Aptech\class\t1807e\oanhbt\Helloworld\QLNV\obj\Debug\QLNV.exe
+D:\Aptech\class\t1807e\oanhbt\Helloworld\QLNV\obj\Debug\QLNV.pdb
+D:\Aptech\class\t1807e\oanhbt\Helloworld\QLNV\bin\Debug\QLNV.exe
+D:\Aptech\class\t1807e\oanhbt\Helloworld\QLNV\bin\Debug\QLNV.pdb
+D:\Aptech\class\t1807e\oanhbt\Helloworld\QLNV\obj\Debug\QLNV.csprojResolveAssemblyReference.cache

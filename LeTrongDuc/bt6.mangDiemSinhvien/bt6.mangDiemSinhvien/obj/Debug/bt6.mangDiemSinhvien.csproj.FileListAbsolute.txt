@@ -1,0 +1,12 @@
+E:\SEM2\LeTrongDuc\t1807e\LeTrongDuc\bt6.mangDiemSinhvien\bt6.mangDiemSinhvien\bin\Debug\bt6.mangDiemSinhvien.exe.config
+E:\SEM2\LeTrongDuc\t1807e\LeTrongDuc\bt6.mangDiemSinhvien\bt6.mangDiemSinhvien\obj\Debug\bt6.mangDiemSinhvien.csprojResolveAssemblyReference.cache
+E:\SEM2\LeTrongDuc\t1807e\LeTrongDuc\bt6.mangDiemSinhvien\bt6.mangDiemSinhvien\bin\Debug\bt6.mangDiemSinhvien.exe
+E:\SEM2\LeTrongDuc\t1807e\LeTrongDuc\bt6.mangDiemSinhvien\bt6.mangDiemSinhvien\bin\Debug\bt6.mangDiemSinhvien.pdb
+E:\SEM2\LeTrongDuc\t1807e\LeTrongDuc\bt6.mangDiemSinhvien\bt6.mangDiemSinhvien\obj\Debug\bt6.mangDiemSinhvien.exe
+E:\SEM2\LeTrongDuc\t1807e\LeTrongDuc\bt6.mangDiemSinhvien\bt6.mangDiemSinhvien\obj\Debug\bt6.mangDiemSinhvien.pdb
+C:\Users\Duc\Desktop\LeTrongDuc\bt6.mangDiemSinhvien\bt6.mangDiemSinhvien\bin\Debug\bt6.mangDiemSinhvien.exe.config
+C:\Users\Duc\Desktop\LeTrongDuc\bt6.mangDiemSinhvien\bt6.mangDiemSinhvien\obj\Debug\bt6.mangDiemSinhvien.exe
+C:\Users\Duc\Desktop\LeTrongDuc\bt6.mangDiemSinhvien\bt6.mangDiemSinhvien\obj\Debug\bt6.mangDiemSinhvien.pdb
+C:\Users\Duc\Desktop\LeTrongDuc\bt6.mangDiemSinhvien\bt6.mangDiemSinhvien\bin\Debug\bt6.mangDiemSinhvien.exe
+C:\Users\Duc\Desktop\LeTrongDuc\bt6.mangDiemSinhvien\bt6.mangDiemSinhvien\bin\Debug\bt6.mangDiemSinhvien.pdb
+C:\Users\Duc\Desktop\LeTrongDuc\bt6.mangDiemSinhvien\bt6.mangDiemSinhvien\obj\Debug\bt6.mangDiemSinhvien.csprojResolveAssemblyReference.cache
