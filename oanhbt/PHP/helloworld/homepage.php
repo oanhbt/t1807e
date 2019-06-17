@@ -25,7 +25,12 @@
   </head>
 
   <body>
+  <?php session_start(); 
+  if(!isset($_SESSION['user_name'])) {
+	  header('Location: ' . "login.php");
+  }
   
+  ?>
   <?php include "array.php"; ?>
   
 	<!-- Grey with black text -->
@@ -40,6 +45,15 @@
       <a class="nav-link" href="#"><?php echo $lnk ?></a>
     </li>
 	<?php } ?>
+	
+	<li class="nav-item"><a class="nav-link" href="add.php">Add</a></li>
+	
+  </ul>
+  <ul class="navbar-nav justify-content-right" style="color: white; float: right;">
+	<li class="mx-3">
+		Xin chào <?php echo $_SESSION['user_name']?>
+	</li>
+	<li><a href="logout_process.php">Logout</a> </li>
   </ul>
 </nav>
 
@@ -54,7 +68,14 @@
 	<div class="col-md-8">
 		<div class="row">
 		
-			<?php for($i = 0; $i < count($list_profile); $i++ ) {   
+			<?php 
+			$item_per_page = 3;
+			$page = isset($_GET['page']) ? $_GET['page'] : 1;
+			$start = ($page - 1) * $item_per_page;
+			
+			for($i = $start; 
+				$i < $start + $item_per_page && $i < count($list_profile); 
+				$i++ ) {   
 				$profile = $list_profile[$i];
 			?>
 			
@@ -74,6 +95,32 @@
 			<?php } ?>
 			
 		</div>
+		
+		<ul class="pagination">
+			<li class="page-item"><a class="page-link" href="homepage.php?page=1">Previous</a></li>
+			
+			<?php
+			$total_page = count($list_profile)/$item_per_page;
+			if(count($list_profile)%$item_per_page > 0) {
+				$total_page = $total_page + 1;
+			}	
+
+			for($i = 1; $i <= $total_page; $i++) {
+			?>
+			
+			<li class="page-item">
+				<a class="page-link" href="homepage.php?page=<?php echo $i?>">
+					<?php echo $i?>
+				</a>
+			</li>
+			
+			<?php
+			}
+			?>
+			<li class="page-item">
+				<a class="page-link" href="homepage.php?page=2">Next</a>
+			</li>
+</ul>
 	</div>
 </div>
 

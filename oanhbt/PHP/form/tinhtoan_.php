@@ -3,6 +3,8 @@
 		return $_POST[$key];
 	}
 	
+	//var_dump($_GET);
+	//die();
 	if(isset($_POST["number1"]) && isset($_POST["number2"])) {
 		$number1 = getValue("number1");
 		$number2 = getValue("number2");
@@ -24,5 +26,6 @@
 			echo "$number1 $operator $number2 : $result";
 			echo "<br/>";
 		}
-	} 
+	}
+	header('Location: ' . "rs.php?result=".$result);
 ?>

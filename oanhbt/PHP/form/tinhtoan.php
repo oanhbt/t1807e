@@ -2,6 +2,8 @@
 	<head>
 	</head>
 	<body>		
+		<a href="tinhtoan_.php?number1=3&number2=10">click me</a>
+		
 		<form action="tinhtoan_.php" method="POST">
 			Number 1:
 			<input type="text" name="number1" />
