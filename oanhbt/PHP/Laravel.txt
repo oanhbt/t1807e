@@ -1,0 +1,51 @@
+1. Câu lệnh tạo project
+composer create-project laravel/laravel blog
+
+2. make auth
+php artisan make:auth
+
+3. Tạo db từ migration
+php artisan migrate
+
+4. Câu lệnh liệt kê các đường dẫn
+php artisan route:list
+
+5. Câu lệnh tạo model và migration để tạo table tương ứng
+php artisan make:model Post -m
+php artisan make:model Category -m
+php artisan make:model Tag -m
+
+Câu lệnh chỉ tạo model
+php artisan make:model Post
+
+Câu lệnh chỉ tạo migration
+php artisan make:migration create-posts-table
+
+
+6. Tạo Controller
+php artisan make:controller CategoryController
+php artisan make:controller CategoryController --resource
+php artisan make:controller TagController --resource
+
+php artisan make:controller PostController --resource
+
+Thêm route
+Route::resource('/category', 'CategoryController');
+Route::resource('/tag', 'TagController');
+Route::resource('/post', 'PostController');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
