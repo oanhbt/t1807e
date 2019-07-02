@@ -9,8 +9,7 @@
 
     <title>{{ config('app.name', 'Laravel') }}</title>
 
-    <!-- Scripts -->
-    <script src="{{ asset('js/app.js') }}" defer></script>
+
 
     <!-- Fonts -->
     <link rel="dns-prefetch" href="//fonts.gstatic.com">
@@ -35,13 +34,13 @@
                     <ul class="navbar-nav mr-auto">
                       @if(Auth::check())
                       <li class="nav-item">
-                        <a class="nav-link" href="category">Category</a>
+                        <a class="nav-link" href="{{asset('category')}}">Category</a>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link" href="tag">Tag</a>
+                        <a class="nav-link" href="{{ asset('tag')}}">Tag</a>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link" href="post">Post</a>
+                        <a class="nav-link" href="{{ asset('post')}}">Post</a>
                       </li>
                       @endif
                     </ul>
@@ -86,5 +85,17 @@
             @yield('content')
         </main>
     </div>
+
+
+    <!-- Scripts -->
+
+
+    <script src="{{asset('/vendor/unisharp/laravel-ckeditor/ckeditor.js')}}">
+    </script>
+<!-- <script src="{{ asset('js/app.js') }}" defer></script> -->
+    <script>
+       CKEDITOR.replace('content');
+    </script>
+
 </body>
 </html>

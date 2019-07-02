@@ -4,6 +4,14 @@
 <div class="container">
 <h2>Create new category:</h2>
 
+@if(count($errors) > 0)
+  <div class="alert alert-danger">
+    @foreach($errors->all() as $er)
+      <p>{{$er}}</p>
+    @endforeach
+  </div>
+@endif
+
 <form method="POST" action="{{route('category.store')}}">
   @csrf
   <div class="form-group">

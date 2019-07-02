@@ -19,7 +19,7 @@
     <link rel="stylesheet" href="css/style.css">
   </head>
   <body>
-    
+
 
     <div class="wrap">
 
@@ -52,11 +52,11 @@
             </div>
           </div>
         </div>
-        
+
         <nav class="navbar navbar-expand-md  navbar-light bg-light">
           <div class="container">
-            
-           
+
+
             <div class="collapse navbar-collapse" id="navbarMenu">
               <ul class="navbar-nav mx-auto">
                 <li class="nav-item">
@@ -95,7 +95,7 @@
                   <a class="nav-link" href="contact.html">Contact</a>
                 </li>
               </ul>
-              
+
             </div>
           </div>
         </nav>
@@ -104,9 +104,9 @@
 
       @yield('banner')
       <!-- END section -->
-		
+
 		@yield('content')
-		
+
       <footer class="site-footer">
         <div class="container">
           <div class="row mb-5">
@@ -164,7 +164,7 @@
                   </div>
                 </div>
                 <div class="col-md-1"></div>
-                
+
                 <div class="col-md-4">
 
                   <div class="mb-5">
@@ -177,7 +177,7 @@
                       <li><a href="#">Categories</a></li>
                     </ul>
                   </div>
-                  
+
                   <div class="mb-5">
                     <h3>Social</h3>
                     <ul class="list-unstyled footer-social">
@@ -207,7 +207,7 @@
       <!-- END footer -->
 
     </div>
-    
+
     <!-- loader -->
     <div id="loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#f4b214"/></svg></div>
 
@@ -219,7 +219,7 @@
     <script src="js/jquery.waypoints.min.js"></script>
     <script src="js/jquery.stellar.min.js"></script>
 
-    
+
     <script src="js/main.js"></script>
   </body>
 </html>

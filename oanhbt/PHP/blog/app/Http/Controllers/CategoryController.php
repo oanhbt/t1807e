@@ -38,13 +38,31 @@ class CategoryController extends Controller
      */
     public function store(Request $request)
     {
+        /*$this->validate($request,
+          [
+            'name' => 'required|max:255|min:3'
+          ]);*/
+          $msg = [
+              'name.required' => 'A name is required'
+          ];
+          $request->validate([
+              'name' => 'required|max:255|min:3'
+            ], $msg);
+
         $name = $request->input("name");
 
         $new_category = new Category();
         $new_category->name = $name;
         $new_category->save();
-
+        $request->session()->flash('success', 'Category was successful!');
         return redirect()->route("category.index");
+    }
+
+    public function messages()
+    {
+        return [
+            'name.required' => 'A name is required'
+        ];
     }
 
     /**
@@ -95,8 +113,11 @@ class CategoryController extends Controller
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function destroy($id)
+    public function destroy(Request $request, $id)
     {
-        //
+      $category = Category::find($id);
+      $category->delete();
+      $request->session()->flash('success', 'Category was deleted.');
+      return redirect()->route("category.index");
     }
 }

@@ -23,6 +23,5 @@ Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
 Route::resource('/category', 'CategoryController');
-
-//Route::get('/category', 'CategoryController@index');
-//Route::get('/category/create', 'CategoryController@create');
+Route::resource('/tag', 'TagController');
+Route::resource('/post', 'PostController');
