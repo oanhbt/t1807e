@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Tree-PC\\Desktop\\t1807e\\calc\\calc.csproj": {}
+    "C:\\Users\\zzz\\Desktop\\t1807e\\TranVanNguyen\\calc\\calc.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Tree-PC\\Desktop\\t1807e\\calc\\calc.csproj": {
+    "C:\\Users\\zzz\\Desktop\\t1807e\\TranVanNguyen\\calc\\calc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Tree-PC\\Desktop\\t1807e\\calc\\calc.csproj",
+        "projectUniqueName": "C:\\Users\\zzz\\Desktop\\t1807e\\TranVanNguyen\\calc\\calc.csproj",
         "projectName": "calc",
-        "projectPath": "c:\\Users\\Tree-PC\\Desktop\\t1807e\\calc\\calc.csproj",
-        "packagesPath": "C:\\Users\\Tree-PC\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Tree-PC\\Desktop\\t1807e\\calc\\obj\\",
+        "projectPath": "C:\\Users\\zzz\\Desktop\\t1807e\\TranVanNguyen\\calc\\calc.csproj",
+        "packagesPath": "C:\\Users\\zzz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zzz\\Desktop\\t1807e\\TranVanNguyen\\calc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Tree-PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\zzz\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"

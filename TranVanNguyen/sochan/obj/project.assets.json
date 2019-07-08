@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zzz\\Desktop\\t1807e\\sochan\\sochan.csproj",
+      "projectUniqueName": "C:\\Users\\zzz\\Desktop\\t1807e\\TranVanNguyen\\sochan\\sochan.csproj",
       "projectName": "sochan",
-      "projectPath": "C:\\Users\\zzz\\Desktop\\t1807e\\sochan\\sochan.csproj",
+      "projectPath": "C:\\Users\\zzz\\Desktop\\t1807e\\TranVanNguyen\\sochan\\sochan.csproj",
       "packagesPath": "C:\\Users\\zzz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zzz\\Desktop\\t1807e\\sochan\\obj\\",
+      "outputPath": "C:\\Users\\zzz\\Desktop\\t1807e\\TranVanNguyen\\sochan\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,11 @@
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\arraylist\obj\Debug\netcoreapp2.2\arraylist.csprojAssemblyReference.cache
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\arraylist\obj\Debug\netcoreapp2.2\arraylist.csproj.CoreCompileInputs.cache
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\arraylist\obj\Debug\netcoreapp2.2\arraylist.AssemblyInfoInputs.cache
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\arraylist\obj\Debug\netcoreapp2.2\arraylist.AssemblyInfo.cs
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\arraylist\bin\Debug\netcoreapp2.2\arraylist.deps.json
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\arraylist\bin\Debug\netcoreapp2.2\arraylist.runtimeconfig.json
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\arraylist\bin\Debug\netcoreapp2.2\arraylist.runtimeconfig.dev.json
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\arraylist\bin\Debug\netcoreapp2.2\arraylist.dll
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\arraylist\bin\Debug\netcoreapp2.2\arraylist.pdb
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\arraylist\obj\Debug\netcoreapp2.2\arraylist.dll
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\arraylist\obj\Debug\netcoreapp2.2\arraylist.pdb

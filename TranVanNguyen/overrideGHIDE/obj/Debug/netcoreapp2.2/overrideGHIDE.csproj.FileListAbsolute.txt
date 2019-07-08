@@ -1,0 +1,11 @@
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\overrideGHIDE\obj\Debug\netcoreapp2.2\overrideGHIDE.csprojAssemblyReference.cache
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\overrideGHIDE\obj\Debug\netcoreapp2.2\overrideGHIDE.csproj.CoreCompileInputs.cache
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\overrideGHIDE\obj\Debug\netcoreapp2.2\overrideGHIDE.AssemblyInfoInputs.cache
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\overrideGHIDE\obj\Debug\netcoreapp2.2\overrideGHIDE.AssemblyInfo.cs
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\overrideGHIDE\bin\Debug\netcoreapp2.2\overrideGHIDE.deps.json
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\overrideGHIDE\bin\Debug\netcoreapp2.2\overrideGHIDE.runtimeconfig.json
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\overrideGHIDE\bin\Debug\netcoreapp2.2\overrideGHIDE.runtimeconfig.dev.json
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\overrideGHIDE\bin\Debug\netcoreapp2.2\overrideGHIDE.dll
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\overrideGHIDE\bin\Debug\netcoreapp2.2\overrideGHIDE.pdb
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\overrideGHIDE\obj\Debug\netcoreapp2.2\overrideGHIDE.dll
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\overrideGHIDE\obj\Debug\netcoreapp2.2\overrideGHIDE.pdb

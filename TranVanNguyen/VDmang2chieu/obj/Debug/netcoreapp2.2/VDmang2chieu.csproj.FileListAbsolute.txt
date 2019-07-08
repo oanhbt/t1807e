@@ -1,0 +1,11 @@
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\VDmang2chieu\bin\Debug\netcoreapp2.2\VDmang2chieu.deps.json
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\VDmang2chieu\bin\Debug\netcoreapp2.2\VDmang2chieu.runtimeconfig.json
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\VDmang2chieu\bin\Debug\netcoreapp2.2\VDmang2chieu.runtimeconfig.dev.json
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\VDmang2chieu\bin\Debug\netcoreapp2.2\VDmang2chieu.dll
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\VDmang2chieu\bin\Debug\netcoreapp2.2\VDmang2chieu.pdb
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\VDmang2chieu\obj\Debug\netcoreapp2.2\VDmang2chieu.csprojAssemblyReference.cache
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\VDmang2chieu\obj\Debug\netcoreapp2.2\VDmang2chieu.csproj.CoreCompileInputs.cache
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\VDmang2chieu\obj\Debug\netcoreapp2.2\VDmang2chieu.AssemblyInfoInputs.cache
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\VDmang2chieu\obj\Debug\netcoreapp2.2\VDmang2chieu.AssemblyInfo.cs
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\VDmang2chieu\obj\Debug\netcoreapp2.2\VDmang2chieu.dll
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\VDmang2chieu\obj\Debug\netcoreapp2.2\VDmang2chieu.pdb

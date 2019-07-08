@@ -1,0 +1,11 @@
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\qlnhanVien\obj\Debug\netcoreapp2.2\qlnhanVien.csprojAssemblyReference.cache
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\qlnhanVien\obj\Debug\netcoreapp2.2\qlnhanVien.csproj.CoreCompileInputs.cache
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\qlnhanVien\obj\Debug\netcoreapp2.2\qlnhanVien.AssemblyInfoInputs.cache
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\qlnhanVien\obj\Debug\netcoreapp2.2\qlnhanVien.AssemblyInfo.cs
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\qlnhanVien\bin\Debug\netcoreapp2.2\qlnhanVien.deps.json
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\qlnhanVien\bin\Debug\netcoreapp2.2\qlnhanVien.runtimeconfig.json
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\qlnhanVien\bin\Debug\netcoreapp2.2\qlnhanVien.runtimeconfig.dev.json
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\qlnhanVien\bin\Debug\netcoreapp2.2\qlnhanVien.dll
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\qlnhanVien\bin\Debug\netcoreapp2.2\qlnhanVien.pdb
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\qlnhanVien\obj\Debug\netcoreapp2.2\qlnhanVien.dll
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\qlnhanVien\obj\Debug\netcoreapp2.2\qlnhanVien.pdb

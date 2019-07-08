@@ -1,0 +1,11 @@
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\getset\obj\Debug\netcoreapp2.2\getset.csprojAssemblyReference.cache
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\getset\obj\Debug\netcoreapp2.2\getset.csproj.CoreCompileInputs.cache
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\getset\obj\Debug\netcoreapp2.2\getset.AssemblyInfoInputs.cache
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\getset\obj\Debug\netcoreapp2.2\getset.AssemblyInfo.cs
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\getset\bin\Debug\netcoreapp2.2\getset.deps.json
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\getset\bin\Debug\netcoreapp2.2\getset.runtimeconfig.json
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\getset\bin\Debug\netcoreapp2.2\getset.runtimeconfig.dev.json
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\getset\bin\Debug\netcoreapp2.2\getset.dll
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\getset\bin\Debug\netcoreapp2.2\getset.pdb
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\getset\obj\Debug\netcoreapp2.2\getset.dll
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\getset\obj\Debug\netcoreapp2.2\getset.pdb

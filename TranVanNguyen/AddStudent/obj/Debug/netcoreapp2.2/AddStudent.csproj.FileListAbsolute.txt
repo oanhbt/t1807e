@@ -1,0 +1,11 @@
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\AddStudent\obj\Debug\netcoreapp2.2\AddStudent.csprojAssemblyReference.cache
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\AddStudent\obj\Debug\netcoreapp2.2\AddStudent.csproj.CoreCompileInputs.cache
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\AddStudent\obj\Debug\netcoreapp2.2\AddStudent.AssemblyInfoInputs.cache
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\AddStudent\obj\Debug\netcoreapp2.2\AddStudent.AssemblyInfo.cs
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\AddStudent\bin\Debug\netcoreapp2.2\AddStudent.deps.json
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\AddStudent\bin\Debug\netcoreapp2.2\AddStudent.runtimeconfig.json
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\AddStudent\bin\Debug\netcoreapp2.2\AddStudent.runtimeconfig.dev.json
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\AddStudent\bin\Debug\netcoreapp2.2\AddStudent.dll
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\AddStudent\bin\Debug\netcoreapp2.2\AddStudent.pdb
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\AddStudent\obj\Debug\netcoreapp2.2\AddStudent.dll
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\AddStudent\obj\Debug\netcoreapp2.2\AddStudent.pdb

@@ -1,0 +1,11 @@
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\AbsTrack\bin\Debug\netcoreapp2.2\AbsTrack.deps.json
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\AbsTrack\bin\Debug\netcoreapp2.2\AbsTrack.runtimeconfig.json
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\AbsTrack\bin\Debug\netcoreapp2.2\AbsTrack.runtimeconfig.dev.json
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\AbsTrack\bin\Debug\netcoreapp2.2\AbsTrack.dll
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\AbsTrack\bin\Debug\netcoreapp2.2\AbsTrack.pdb
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\AbsTrack\obj\Debug\netcoreapp2.2\AbsTrack.csprojAssemblyReference.cache
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\AbsTrack\obj\Debug\netcoreapp2.2\AbsTrack.csproj.CoreCompileInputs.cache
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\AbsTrack\obj\Debug\netcoreapp2.2\AbsTrack.AssemblyInfoInputs.cache
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\AbsTrack\obj\Debug\netcoreapp2.2\AbsTrack.AssemblyInfo.cs
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\AbsTrack\obj\Debug\netcoreapp2.2\AbsTrack.dll
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\AbsTrack\obj\Debug\netcoreapp2.2\AbsTrack.pdb

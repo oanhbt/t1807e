@@ -1,0 +1,11 @@
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\exception\bin\Debug\netcoreapp2.2\exception.deps.json
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\exception\bin\Debug\netcoreapp2.2\exception.runtimeconfig.json
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\exception\bin\Debug\netcoreapp2.2\exception.runtimeconfig.dev.json
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\exception\bin\Debug\netcoreapp2.2\exception.dll
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\exception\bin\Debug\netcoreapp2.2\exception.pdb
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\exception\obj\Debug\netcoreapp2.2\exception.csprojAssemblyReference.cache
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\exception\obj\Debug\netcoreapp2.2\exception.csproj.CoreCompileInputs.cache
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\exception\obj\Debug\netcoreapp2.2\exception.AssemblyInfoInputs.cache
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\exception\obj\Debug\netcoreapp2.2\exception.AssemblyInfo.cs
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\exception\obj\Debug\netcoreapp2.2\exception.dll
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\exception\obj\Debug\netcoreapp2.2\exception.pdb

@@ -1,0 +1,11 @@
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\Examination\obj\Debug\netcoreapp2.2\Examination.csprojAssemblyReference.cache
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\Examination\obj\Debug\netcoreapp2.2\Examination.csproj.CoreCompileInputs.cache
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\Examination\obj\Debug\netcoreapp2.2\Examination.AssemblyInfoInputs.cache
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\Examination\obj\Debug\netcoreapp2.2\Examination.AssemblyInfo.cs
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\Examination\bin\Debug\netcoreapp2.2\Examination.deps.json
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\Examination\bin\Debug\netcoreapp2.2\Examination.runtimeconfig.json
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\Examination\bin\Debug\netcoreapp2.2\Examination.runtimeconfig.dev.json
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\Examination\bin\Debug\netcoreapp2.2\Examination.dll
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\Examination\bin\Debug\netcoreapp2.2\Examination.pdb
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\Examination\obj\Debug\netcoreapp2.2\Examination.dll
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\Examination\obj\Debug\netcoreapp2.2\Examination.pdb

@@ -20,3 +20,14 @@ c:\Users\Tree-PC\Desktop\t1807e\calc\obj\Debug\netcoreapp2.2\calc.AssemblyInfoIn
 c:\Users\Tree-PC\Desktop\t1807e\calc\obj\Debug\netcoreapp2.2\calc.AssemblyInfo.cs
 c:\Users\Tree-PC\Desktop\t1807e\calc\obj\Debug\netcoreapp2.2\calc.dll
 c:\Users\Tree-PC\Desktop\t1807e\calc\obj\Debug\netcoreapp2.2\calc.pdb
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\calc\bin\Debug\netcoreapp2.2\calc.deps.json
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\calc\bin\Debug\netcoreapp2.2\calc.runtimeconfig.json
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\calc\bin\Debug\netcoreapp2.2\calc.runtimeconfig.dev.json
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\calc\bin\Debug\netcoreapp2.2\calc.dll
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\calc\bin\Debug\netcoreapp2.2\calc.pdb
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\calc\obj\Debug\netcoreapp2.2\calc.csprojAssemblyReference.cache
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\calc\obj\Debug\netcoreapp2.2\calc.csproj.CoreCompileInputs.cache
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\calc\obj\Debug\netcoreapp2.2\calc.AssemblyInfoInputs.cache
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\calc\obj\Debug\netcoreapp2.2\calc.AssemblyInfo.cs
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\calc\obj\Debug\netcoreapp2.2\calc.dll
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\calc\obj\Debug\netcoreapp2.2\calc.pdb

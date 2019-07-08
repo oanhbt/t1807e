@@ -1,0 +1,11 @@
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\IInterface\bin\Debug\netcoreapp2.2\IInterface.deps.json
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\IInterface\bin\Debug\netcoreapp2.2\IInterface.runtimeconfig.json
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\IInterface\bin\Debug\netcoreapp2.2\IInterface.runtimeconfig.dev.json
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\IInterface\bin\Debug\netcoreapp2.2\IInterface.dll
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\IInterface\bin\Debug\netcoreapp2.2\IInterface.pdb
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\IInterface\obj\Debug\netcoreapp2.2\IInterface.csprojAssemblyReference.cache
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\IInterface\obj\Debug\netcoreapp2.2\IInterface.csproj.CoreCompileInputs.cache
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\IInterface\obj\Debug\netcoreapp2.2\IInterface.AssemblyInfoInputs.cache
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\IInterface\obj\Debug\netcoreapp2.2\IInterface.AssemblyInfo.cs
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\IInterface\obj\Debug\netcoreapp2.2\IInterface.dll
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\IInterface\obj\Debug\netcoreapp2.2\IInterface.pdb

@@ -1,0 +1,4 @@
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\QLLuong\obj\Debug\netcoreapp2.2\QLLuong.csprojAssemblyReference.cache
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\QLLuong\obj\Debug\netcoreapp2.2\QLLuong.csproj.CoreCompileInputs.cache
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\QLLuong\obj\Debug\netcoreapp2.2\QLLuong.AssemblyInfoInputs.cache
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\QLLuong\obj\Debug\netcoreapp2.2\QLLuong.AssemblyInfo.cs

@@ -1,0 +1,11 @@
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\thamchieu\obj\Debug\netcoreapp2.2\thamchieu.csprojAssemblyReference.cache
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\thamchieu\obj\Debug\netcoreapp2.2\thamchieu.csproj.CoreCompileInputs.cache
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\thamchieu\obj\Debug\netcoreapp2.2\thamchieu.AssemblyInfoInputs.cache
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\thamchieu\obj\Debug\netcoreapp2.2\thamchieu.AssemblyInfo.cs
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\thamchieu\bin\Debug\netcoreapp2.2\thamchieu.deps.json
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\thamchieu\bin\Debug\netcoreapp2.2\thamchieu.runtimeconfig.json
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\thamchieu\bin\Debug\netcoreapp2.2\thamchieu.runtimeconfig.dev.json
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\thamchieu\bin\Debug\netcoreapp2.2\thamchieu.dll
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\thamchieu\bin\Debug\netcoreapp2.2\thamchieu.pdb
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\thamchieu\obj\Debug\netcoreapp2.2\thamchieu.dll
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\thamchieu\obj\Debug\netcoreapp2.2\thamchieu.pdb

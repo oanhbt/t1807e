@@ -1,0 +1,11 @@
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\ketthua\bin\Debug\netcoreapp2.2\ketthua.deps.json
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\ketthua\bin\Debug\netcoreapp2.2\ketthua.runtimeconfig.json
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\ketthua\bin\Debug\netcoreapp2.2\ketthua.runtimeconfig.dev.json
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\ketthua\bin\Debug\netcoreapp2.2\ketthua.dll
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\ketthua\bin\Debug\netcoreapp2.2\ketthua.pdb
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\ketthua\obj\Debug\netcoreapp2.2\ketthua.csprojAssemblyReference.cache
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\ketthua\obj\Debug\netcoreapp2.2\ketthua.csproj.CoreCompileInputs.cache
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\ketthua\obj\Debug\netcoreapp2.2\ketthua.AssemblyInfoInputs.cache
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\ketthua\obj\Debug\netcoreapp2.2\ketthua.AssemblyInfo.cs
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\ketthua\obj\Debug\netcoreapp2.2\ketthua.dll
+C:\Users\zzz\Desktop\t1807e\TranVanNguyen\ketthua\obj\Debug\netcoreapp2.2\ketthua.pdb
