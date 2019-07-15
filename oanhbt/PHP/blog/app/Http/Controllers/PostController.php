@@ -3,6 +3,11 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use App\Category;
+use App\Tag;
+use App\Post;
+use App\Post_Category;
+use App\Post_Tag;
 
 class PostController extends Controller
 {
@@ -13,7 +18,8 @@ class PostController extends Controller
      */
     public function index()
     {
-        return view("post.list");
+        $lsPost = Post::all();
+        return view("post.list")->with(["lsPost" => $lsPost]);
     }
 
     /**
@@ -23,7 +29,10 @@ class PostController extends Controller
      */
     public function create()
     {
-        return view("post.create");
+        $lsCate = Category::all();
+        $lsTag = Tag::all();
+        return view("post.create")
+          ->with(['lsCate' => $lsCate, 'lsTag' => $lsTag]);
     }
 
     /**
@@ -34,7 +43,57 @@ class PostController extends Controller
      */
     public function store(Request $request)
     {
-        //
+      //dd($request->category);
+      // $msg = [
+      //     'title.required' => 'A name is required'
+      // ];
+      // $request->validate([
+      //     'title' => 'required|max:255|min:3'
+      // ], $msg);
+
+      $cover = $request->cover;
+      if( $cover != null) {
+        $image_name = time()."_".$cover->getClientOriginalName();
+        if($cover->isValid()) {
+          $cover->move('images', $image_name );
+        }
+        $path = "images/".$image_name;
+      } else {
+        $path = "";
+      }
+      $user = auth()->user();
+
+      $post = new Post();
+      $post->tile = $request->title;
+      $post->cover = $path;
+      $post->user_id = $user->id;
+      $post->content = $request->content;
+      $post->save();
+
+      $lsSelectedCate = $request->category;
+      $lsSelectedTag = $request->tag;
+
+      if($lsSelectedCate != null && count($lsSelectedCate) > 0) {
+        foreach ($lsSelectedCate as $selecteCate) {
+          $post_Category = new Post_Category();
+          $post_Category->category_id = $selecteCate;
+          $post_Category->post_id = $post->id;
+          $post_Category->save();
+        }
+      }
+
+      if($lsSelectedTag != null && count($lsSelectedTag) > 0) {
+        foreach ($lsSelectedTag as $selecteTag) {
+          $post_Tag = new Post_Tag();
+          $post_Tag->tag_id = $selecteTag;
+          $post_Tag->post_id = $post->id;
+          $post_Tag->save();
+        }
+      }
+
+      $request->session()->flash('success', 'Post was successful!');
+      return redirect()->route("post.index");
+
     }
 
     /**
@@ -45,7 +104,9 @@ class PostController extends Controller
      */
     public function show($id)
     {
-        //
+        $post = Post::find($id);
+        return view("post.view")
+          ->with(['post' => $post]);
     }
 
     /**

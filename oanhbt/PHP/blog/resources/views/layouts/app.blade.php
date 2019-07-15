@@ -9,8 +9,8 @@
 
     <title>{{ config('app.name', 'Laravel') }}</title>
 
-
-
+     <script src="{{ asset('js/app.js') }}" ></script>
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-migrate/3.1.0/jquery-migrate.js" integrity="sha256-Yd1j9A67RPnTeoEPIfmCytUkgqVKiX9BcuAKLHQGx+8=" crossorigin="anonymous"></script>
     <!-- Fonts -->
     <link rel="dns-prefetch" href="//fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
@@ -90,11 +90,22 @@
     <!-- Scripts -->
 
 
-    <script src="{{asset('/vendor/unisharp/laravel-ckeditor/ckeditor.js')}}">
+    <script src="{{asset('/vendor/unisharp/laravel-ckeditor/ckeditor.js')}}" charset="utf-8">
     </script>
-<!-- <script src="{{ asset('js/app.js') }}" defer></script> -->
+
     <script>
-       CKEDITOR.replace('content');
+    var options = {
+      filebrowserImageBrowseUrl: "{{asset('/laravel-filemanager?type=Images')}}",
+      filebrowserImageUploadUrl:
+      "{{asset('/laravel-filemanager/upload?type=Images')}}&_token={{csrf_token() }}",
+      filebrowserBrowseUrl: "{{asset('/laravel-filemanager?type=Files')}}",
+      filebrowserUploadUrl:
+      "{{asset('/laravel-filemanager/upload?type=Files')}}&_token={{csrf_token() }}"
+    };
+      CKEDITOR.config.entities_latin = false;
+       CKEDITOR.replace('content',
+            {language: 'vi',
+            options});
     </script>
 
 </body>

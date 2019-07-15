@@ -7,6 +7,7 @@
 
     <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:300, 400,700|Inconsolata:400,700" rel="stylesheet">
 
+    <base href="{{asset("")}}" target="_self">
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/animate.css">
     <link rel="stylesheet" href="css/owl.carousel.min.css">
@@ -17,6 +18,8 @@
 
     <!-- Theme Style -->
     <link rel="stylesheet" href="css/style.css">
+
+    <script src="js/jquery-3.2.1.min.js"></script>
   </head>
   <body>
 
@@ -60,31 +63,27 @@
             <div class="collapse navbar-collapse" id="navbarMenu">
               <ul class="navbar-nav mx-auto">
                 <li class="nav-item">
-                  <a class="nav-link active" href="index.html">Home</a>
+                  <a class="nav-link" href="index.html">Home</a>
                 </li>
-                <li class="nav-item">
+                <!-- <li class="nav-item">
                   <a class="nav-link" href="#">Business</a>
-                </li>
+                </li> -->
                 <li class="nav-item dropdown">
-                  <a class="nav-link dropdown-toggle" href="category.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Travel</a>
+                  <a class="nav-link dropdown-toggle" href="#" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Tag</a>
                   <div class="dropdown-menu" aria-labelledby="dropdown04">
-                    <a class="dropdown-item" href="category.html">Asia</a>
-                    <a class="dropdown-item" href="category.html">Europe</a>
-                    <a class="dropdown-item" href="category.html">Dubai</a>
-                    <a class="dropdown-item" href="category.html">Africa</a>
-                    <a class="dropdown-item" href="category.html">South America</a>
+                    @foreach($lsTag as $tag)
+                    <a class="dropdown-item" href="view_tag/{{$tag->id}}">{{$tag->name}}</a>
+                    @endforeach
                   </div>
 
                 </li>
 
                 <li class="nav-item dropdown">
-                  <a class="nav-link dropdown-toggle" href="category.html" id="dropdown05" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Categories</a>
+                  <a class="nav-link dropdown-toggle" href="#" id="dropdown05" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Categories</a>
                   <div class="dropdown-menu" aria-labelledby="dropdown05">
-                    <a class="dropdown-item" href="category.html">Lifestyle</a>
-                    <a class="dropdown-item" href="category.html">Food</a>
-                    <a class="dropdown-item" href="category.html">Adventure</a>
-                    <a class="dropdown-item" href="category.html">Travel</a>
-                    <a class="dropdown-item" href="category.html">Business</a>
+                    @foreach($lsCategory as $cate)
+                    <a class="dropdown-item" href="view_category/{{$cate->id}}">{{$cate->name}}</a>
+                    @endforeach
                   </div>
 
                 </li>
@@ -209,10 +208,16 @@
     </div>
 
     <!-- loader -->
-    <div id="loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#f4b214"/></svg></div>
+    <div id="loader" class="show fullscreen">
+      <svg class="circular" width="48px" height="48px">
+        <circle class="path-bg" cx="24" cy="24" r="22" fill="none"
+        stroke-width="4" stroke="#eeeeee"/>
+        <circle class="path" cx="24" cy="24" r="22" fill="none"
+        stroke-width="4" stroke-miterlimit="10" stroke="#f4b214"/>
+      </svg>
+    </div>
 
-    <script src="js/jquery-3.2.1.min.js"></script>
-    <script src="js/jquery-migrate-3.0.0.js"></script>
+    <script src="js/jquery-migrate-3.0.0.js?2"></script>
     <script src="js/popper.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/owl.carousel.min.js"></script>

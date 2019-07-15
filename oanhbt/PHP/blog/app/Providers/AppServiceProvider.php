@@ -4,6 +4,9 @@ namespace App\Providers;
 
 use Illuminate\Support\ServiceProvider;
 use Schema;
+use Illuminate\Support\Facades\View;
+use App\Category;
+use App\Tag;
 
 class AppServiceProvider extends ServiceProvider
 {
@@ -24,7 +27,10 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        //
-		Schema::defaultStringLength(191);
+        $lsCategory = Category::all();
+        $lsTag = Tag::all();
+        View::share('lsCategory', $lsCategory);
+        View::share('lsTag', $lsTag);
+		    Schema::defaultStringLength(191);
     }
 }

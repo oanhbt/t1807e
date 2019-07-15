@@ -9,4 +9,8 @@ class Category extends Model
 {
   use SoftDeletes;
   protected $date = ['deleted_at'];
+
+  public function posts() {
+    return $this->belongsToMany('App\Post', 'post__categories');
+  }
 }

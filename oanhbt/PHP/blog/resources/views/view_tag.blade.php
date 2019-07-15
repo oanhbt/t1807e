@@ -80,8 +80,7 @@
 
                 @foreach($lsPost as $post)
                 <div class="col-md-6">
-                  <a href="view_post_{{$post->id}}.html" 
-                    class="blog-entry element-animate"
+                  <a href="view_post/{{$post->id}}" class="blog-entry element-animate"
                     data-animate-effect="fadeIn">
                     <img src="{{$post->cover}}" style="with:800px;"
                     alt="Image placeholder">
